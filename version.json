@@ -1,0 +1,11 @@
+{
+  "product": "MaterialPhotoViewer",
+  "version": "2.2.0",
+  "released": "2026-10-16",
+  "file": "MaterialPhotoViewer-2.2.0.exe",
+  "size": 154683035,
+  "sha256": "3f83d10c9477339d1c1dfdcc8a9b424ed779e79369ecc8c6e97d9be673b2f524",
+  "download": "https://atomgit.com/Starxincheng/MaterialPhotoViewer-Updates/releases/download/v2.2.0/MaterialPhotoViewer-2.2.0.exe",
+  "download_github": "https://github.com/ku521/MaterialPhotoViewer-Updates/releases/download/v2.2.0/MaterialPhotoViewer-2.2.0.exe",
+  "notes": "Material photo viewer for factory staff: auto-classify by code prefix, fuzzy search, zoom/pan, drawing open, multilingual (zh-CN/en/vi). Includes activation licensing (180-day free trial, then read-only until activated)."
+}
